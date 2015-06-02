@@ -7,9 +7,12 @@ Platzierung von Passagieren in Flugzeugen
 	* Ziel
 		- möglichst effiziente Platzierung
 	* weitere Probleme
+		- 1st, Buisness, Economy Class
 		- Gruppenplatzierung
 			+ auf jeden Fall in einem Flieger
 			+ am besten auch zusammen
 		- bevorzugte Plätze(Gang, Fenster)
-		- 1st, Buisness, Economy Class
-		- 
+	* Ausgabe
+		- Text
+			+ offene Plätze
+			+ nicht vermittelbare Passagiere
